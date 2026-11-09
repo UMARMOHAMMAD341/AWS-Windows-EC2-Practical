@@ -1,5 +1,5 @@
 # AWS-Windows-EC2-Practical
-# AWS Windows Server EC2 Practical
+
 
 ## Aim
 To launch a Windows Server EC2 instance in AWS and establish a remote connection using Remote Desktop Protocol (RDP).
